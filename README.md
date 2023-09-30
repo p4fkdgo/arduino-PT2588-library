@@ -1,2 +1,2 @@
-# arduino-PT2588-library
-PT2588 library for arduino
+# arduino-PT2258-library
+PT2258 library for arduino
